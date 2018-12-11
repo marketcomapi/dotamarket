@@ -1,5 +1,4 @@
-# dotamarket
-Public BOT for Dota-Market.COM
+# Public BOT for Dota-Market.COM
 
 Для работы необходим модуль "request":
 npm install request
